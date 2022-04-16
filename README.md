@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://shoaibkhan.netlify.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](https://shoaibkhan.netlify.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/iam_shoaib14#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/iam_shoaib14#gh-dark-mode-only)
