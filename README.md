@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2024 Goals: Learn more about web3
 - ⚡ Fun fact: I love to read, travel and play football / cricket.
 
 ### Connect with me:
